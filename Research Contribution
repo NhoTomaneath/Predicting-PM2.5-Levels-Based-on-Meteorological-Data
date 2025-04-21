@@ -1,4 +1,4 @@
 Research Contribution 
-Development of a predictive model for PM2.5 concentrations using easily accessible meteorological data.
+Development of a predictive model for PM2.5 concentrations using easily accessible meteorological data. Use machine learning algorithms to learn the relationship between weather conditions (temperature, humidity, wind speed, etc.) and PM2.5 levels.
 Identification of the most influential meteorological factors affecting PM2.5 levels in a specific region.
-A potentially simple and interpretable tool for air quality forecasting.
+Evaluate model performance by  assessing how accurately your models can predict PM2.5 levels based on weather data.
